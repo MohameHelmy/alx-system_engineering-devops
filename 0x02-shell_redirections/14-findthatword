@@ -1,0 +1,2 @@
+#!/bin/bash
+greb -1 "roor" /etc/passwd
